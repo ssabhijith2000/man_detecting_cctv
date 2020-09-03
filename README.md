@@ -1,6 +1,6 @@
 # man_detecting_cctv
 
-This program can be run on a computer with a webcam attached.
+This program can be run on a computer with all necessary dependancies and a webcam attached to it.
 
 INSTALLING DEPENDENCIES
 
